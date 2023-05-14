@@ -29,7 +29,7 @@
 
 [Constrined Delegation Computers](Constrained_Delegation_Computers.md)
 
-[Resources_based_delegation](Resources_Constrained_Based_delegation.md)
+[Constrained Delegation Based Resources](Resources_Constrained_Based_delegation.md)
 
 ### Persistencia
 
