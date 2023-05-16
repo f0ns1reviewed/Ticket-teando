@@ -31,7 +31,7 @@
 
 ### Persistencia
 
-[Persistence Golden ticket](Persistence_Golden_Ticket.md)
+[Persistence Golden ticket](Persistence_GOlden_Ticket.md)
 
 [Persistence Silver ticket](Persistence_Silver_Ticket.md)
 
