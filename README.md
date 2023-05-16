@@ -11,6 +11,13 @@
 ![Kerberos](KDC_schema.png)
 
 ```
+1. Request TGT
+1.1 Response TGT
+2. Request TGS
+2.1 Response TGS
+3. Application Request TGS
+4. Validate service Ticket
+5. Access granted
 ```
 
 ### Accesos CMD/PTH/PTT
