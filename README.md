@@ -37,4 +37,6 @@
 
 [Persistence Diamond ticket](Persistence_Diamond_Ticket.md)
 
+[Persistence trusted Golden](Persistence_trusted_forest.md)
+
 
