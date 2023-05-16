@@ -1,4 +1,4 @@
-# Persistence Silver Ticket
+# Persistence Golden Ticket
 
 ![GOlden Ticket](persistence_golden_ticket.png)
 
