@@ -25,9 +25,7 @@
 
 [Unconstrained Delegation](Unconstrined_Delegation.md)
 
-[Constrined Delegation Users](Constrained_Delegation_Users.md)
-
-[Constrined Delegation Computers](Constrained_Delegation_Computers.md)
+[Constrined Delegation Users And Computers](Constrained_Delegation.md)
 
 [Constrained Delegation Based Resources](Resources_Constrained_Based_delegation.md)
 
