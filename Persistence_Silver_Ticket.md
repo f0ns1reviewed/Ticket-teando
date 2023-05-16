@@ -3,7 +3,7 @@
 ![Silver Ticket](persistence_silver_ticket.png)
 
 ## Index:
-  1. [Attack]
+  1. [Attack](#attack)
 
 ## Attack
 
